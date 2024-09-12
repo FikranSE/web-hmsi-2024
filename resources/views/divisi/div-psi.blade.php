@@ -12,7 +12,7 @@
     <div class="hero min-h-screen ">
         <div class="hero-content flex-col lg:flex-row px-5 sm:px-16 2xl:px-0">
             <div class="flex justify-center">
-                <img src="./img/pengurus/psi/PSI.jpg" alt="divisi psi" class="max-w-xs rounded-lg shadow-2xl sm:hover:-translate-y-2 duration-100" loading="lazy" />
+                <img src="./img/pengurus/psi/PSI.jpg" alt="divisi psi" class="max-w-l rounded-lg shadow-2xl sm:hover:-translate-y-2 duration-100" loading="lazy" />
             </div>
             <div class="text-neutral-content px-3 max-w-full text-center lg:text-left">
                 <p class="text-lg sm:text-xl font-bold">Apa itu divisi PSI?</p>
@@ -46,10 +46,10 @@
         </div>
     </div>
 
-    <section class="text-center py-16">
+    <!-- <section class="text-center py-16">
         <p class="hmsi text-2xl sm:text-4xl text-white pb-4"><i>Staff:</i></p>
         <br>
-        <!-- <div class=" flex flex-col sm:flex-row flex-wrap justify-evenly text-neutral-content">
+        <div class=" flex flex-col sm:flex-row flex-wrap justify-evenly text-neutral-content">
             <ol class="list-none text-lg sm:text-xl">
             <li>Revi Putra Hernel</li>
             </ol>
@@ -59,7 +59,7 @@
             <ol class="list-none text-lg sm:text-xl">
             <li>Rendi Kurniawan</li>
             </ol>
-        </div> -->
+        </div>
         <div class="flex flex-wrap justify-evenly pb-6">
             <div class="inline-block m-2 card lg:w-70 max-w-xs bg-base-100 shadow-xl text-center sm:hover:-translate-y-2 duration-100">
                 <figure><img src="./img/pengurus/psi/staff2psi.jpg" alt="sekbend psi" class="max-h-min" loading="lazy"></figure>
@@ -83,7 +83,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <section class="text-center py-6 px-10">
         <p class="hmsi text-2xl sm:text-4xl text-white pb-4">Program Kerja</p>
@@ -152,7 +152,7 @@
             <div class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box my-2 max-w-4xl text-left">
                 <input type="checkbox" />
                 <div class="collapse-title text-lg font-medium">
-                Workshop Labor
+                    Workshop Labor
                 </div>
                 <div class="collapse-content">
                     <p class="font-bold">Latar belakang</p>

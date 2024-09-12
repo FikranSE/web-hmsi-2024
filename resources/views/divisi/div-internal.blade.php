@@ -12,7 +12,7 @@
     <div class="hero min-h-screen">
         <div class="hero-content flex-col lg:flex-row px-5 sm:px-16 2xl:px-0">
             <div class="flex justify-center">
-                <img src="./img/pengurus/internal/internal.jpg" alt="divisi internal" class="max-w-sm rounded-lg shadow-2xl sm:hover:-translate-y-2 duration-100" loading="lazy" />
+                <img src="./img/pengurus/internal/internal.jpg" alt="divisi internal" class="max-w-l rounded-lg shadow-2xl sm:hover:-translate-y-2 duration-100" loading="lazy" />
             </div>
             <div class=" text-neutral-content px-3 max-w-full text-center lg:text-left">
                 <p class="text-lg sm:text-xl font-bold">Apa itu divisi Internal?</p>
@@ -47,7 +47,7 @@
         </div>
     </div>
 
-    <section class="text-center py-16">
+    <!-- <section class="text-center py-16">
         <p class="hmsi text-2xl sm:text-4xl text-white pb-4">Staff</p>
         <div class="flex flex-col sm:flex-row flex-wrap justify-evenly text-neutral-content">
             <ol class="list-none text-lg sm:text-xl">
@@ -63,7 +63,7 @@
                 <li>Najla Humaira Desni</li>
             </ol>
         </div>
-    </section>
+    </section> -->
 
     <section class="text-center py-6 px-10">
         <p class="hmsi text-2xl sm:text-4xl text-white pb-4">Program Kerja</p>
